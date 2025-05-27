@@ -8,7 +8,7 @@ def yes_no_to_binary(word):
         raise ValueError(f"Неизвестное значение: {word}")
 
 # Читаем данные из файла
-file_path = "/Users/antonkuzmichev/VKR_researching/VKR_research_repo/text.txt"  # замените на путь к вашему файлу
+file_path = "/text.txt"  # замените на путь к вашему файлу
 
 with open(file_path, encoding="utf-8") as f:
     lines = [line.strip() for line in f if line.strip()]

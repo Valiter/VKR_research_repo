@@ -121,7 +121,7 @@ def read_responses_from_txt(file_path):
 
 
 # Example usage:
-file_path = '/Users/antonkuzmichev/VKR_researching/VKR_research_repo/text.txt'  # Путь к вашему файлу с ответами
+file_path = '/text.txt'  # Путь к вашему файлу с ответами
 responses_data = read_responses_from_txt(file_path)
 # Анализ данных
 results_df = analyze_bdhi_responses(responses_data)
