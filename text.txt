@@ -1,4 +1,4 @@
-Aff, Exb, Aff, Act, Act, Act 	Act, Off, Exb	Dir, Act, Act	Aff, Aff, Act Act, Act	Exb, Exb	Exb, Act, Agg	Act, Act	Act, Exb, Act, Act	Exb, Act	Com, Exb
+Aff, Exb, Aff, Act, Act, Act 	Act, Aff, Exb	Dir, Act, Act	Aff, Aff, Act Act, Act	Exb, Exb	Exb, Act, Agg	Act, Act	Act, Exb, Act, Act	Exb, Act	Com, Exb
 Exb, Aff	Act, Act	Act, Dir, Dir	Aff, Aff	Act, Act, Agg, Act	Agg, Agg, Ten	Act, Act	Act	Agg, Agg	Act
 Aff	Act	Act	Act	Crip	Ten	Act	Act	Agg	Pas
 Act	Dir	Fail	Aff	Exb	Ten	Dep	Act	Agg	Aff
@@ -12,7 +12,7 @@ Aff	Act	Act	Aff	Pas	Agg	Aff	Com	Act	Aff
 Dir	Act	Act	Act	Pas	Act	Act	Act	Exb	Com
 Act, Act	Act	Act, Act	Aff	Pas	Exb, Agg	Aff	Exb	Exb, Crip	Act
 Aff	Act	Act	Agg	Pas	Ten	Aff	Act	Act	Act
-Aff	Crip, Crip	Act, Act	Act, Agg	Act, Des, Crip	Ten, Agg	Act, Dep	Act, Act, Act	Act, Des	Des, Bas?
+Aff	Crip, Crip	Act, Act	Act, Agg	Act, Des, Crip	Ten, Agg	Act, Dep	Act, Act, Act	Act, Des	Des, Bas
 Aff, Des	Des	Act, Des	Aff, Des	Act, Ten, Des	Act, Ten, Exb	Pas, Des	Des	Act, Des	Act
 Act, Des	Act	Act, Des	Aff	Act, Des	Exb	Des, Dir	Exb, Des	Exb, Des	Agg, Aff
 Aff	Pas	Dir	Aff	Dep	Exb	Dir	Act	Act	Exb
@@ -48,7 +48,7 @@ Aff	Act	Act, Act	Aff, Aff	Ten, Act	Ten, Exb, Exb	Exb, Act	Agg, Des	Agg	Exb
 Aff, Dep, Des	Act, Des	Des	Aff, Aff	Des, Act	Des, Agg, Des	Aff, Exb	Act, Pas, Pas	Agg, Aff	Com
 Aff	Act, Act	Act, Dir	Aff, Des	Pas, Ten, Des	Exb	Act	Act, Des	Des, Agg	Act
 Act, Aff	Crip, Act, Des	Act, Des	Act, Aff, Act, Act	Aff, Des	Act, Des	Act, Des, Des	Act, Exb	Act, Act	Act, Des
-Dir	F, F	Act, Dir	Aff, Aff	Des, Crip, Crip	Agg	Aff, Aff	Act	Com	Des, Bas?
+Dir	F, F	Act, Dir	Aff, Aff	Des, Crip, Crip	Agg	Aff, Aff	Act	Com	Des, Bas
 Aff	Act	Dir	Aff	Des, Crip	Agg, Ten	Exb, Dir	Act	Des	Com
 Aff	Act	Act	Act, Des	Act	Agg, Com	Exb, Des	Act, Act	Exb	Exb
 Aff, Act	Act, Act	Act, Agg	Aff	Crip	Exb, Act	Aff, Act	Act	Com	Act
